@@ -1,0 +1,4 @@
+body { font-family: sans-serif; padding: 20px; max-width: 420px; }
+button { padding: 8px 14px; cursor: pointer; }
+#komunikat { min-height: 1.5em; margin-top: 16px; }
+footer { margin-top: 24px; color: #666; font-size: 0.9rem; }

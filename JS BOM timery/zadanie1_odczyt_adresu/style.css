@@ -1,0 +1,4 @@
+body { font-family: sans-serif; padding: 20px; max-width: 560px; }
+button { padding: 8px 14px; cursor: pointer; }
+span { font-family: Consolas, monospace; word-break: break-all; }
+footer { margin-top: 24px; color: #666; font-size: 0.9rem; }
